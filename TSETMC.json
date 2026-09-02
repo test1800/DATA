@@ -4,21 +4,21 @@
     "symbol": "رانیز",
     "name": "كارخانجات رينگ اسپرت نورني ريز",
     "timeframe": "15m",
-    "updated": "2026-09-02 10:53:06",
+    "updated": "2026-09-02 10:54:07",
     "RF": -1,
     "ST": -1,
     "K288": -1,
-    "last": 18120.0,
+    "last": 18130.0,
     "close": 18070.0,
     "yesterday": 18590.0,
-    "dailyChangePercent": -2.53,
-    "volume": 11269859
+    "dailyChangePercent": -2.47,
+    "volume": 11274772
   },
   "symbol2": {
     "symbol": "فولاد",
     "name": "فولاد مباركه اصفهان",
     "timeframe": "15m",
-    "updated": "2026-09-02 10:53:07",
+    "updated": "2026-09-02 10:54:08",
     "RF": 1,
     "ST": 1,
     "K288": -1,
@@ -26,13 +26,13 @@
     "close": 2669.0,
     "yesterday": 2751.0,
     "dailyChangePercent": -2.98,
-    "volume": 1373834758
+    "volume": 1374031411
   },
   "symbol3": {
     "symbol": "عیار",
     "name": "صندوق طلاي عيار مفيد",
     "timeframe": "15m",
-    "updated": "2026-09-02 10:53:08",
+    "updated": "2026-09-02 10:54:09",
     "RF": -1,
     "ST": -1,
     "K288": -1,
