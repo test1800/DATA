@@ -1,12 +1,36 @@
 {
-  "symbol": "فولاد",
-  "insCode": "46348559193224090",
-  "timeframe": "15m",
-  "price": 2751.0,
-  "signals": {
+  "totalSymbols": 3,
+  "symbol1": {
     "RF": 1,
     "ST": -1,
     "K288": -1
   },
-  "updated": "2026-09-02 08:20:51"
+  "symbol2": {
+    "symbol": "فولاد",
+    "name": "فولاد مباركه اصفهان",
+    "timeframe": "15m",
+    "updated": "2026-09-02 08:21:56",
+    "RF": 0,
+    "ST": 0,
+    "K288": 0,
+    "last": 2689.0,
+    "close": 2751.0,
+    "yesterday": 2751.0,
+    "dailyChangePercent": -2.2537,
+    "volume": 0
+  },
+  "symbol3": {
+    "symbol": "عيار",
+    "name": "صندوق طلاي عيار مفيد",
+    "timeframe": "15m",
+    "updated": "2026-09-02 08:21:58",
+    "RF": 0,
+    "ST": 0,
+    "K288": 0,
+    "last": 623512.0,
+    "close": 625921.0,
+    "yesterday": 625921.0,
+    "dailyChangePercent": -0.3849,
+    "volume": 0
+  }
 }
