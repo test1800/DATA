@@ -1,24 +1,24 @@
 {
   "totalSymbols": 2,
   "symbol1": {
-    "symbol": "فولاد",
-    "name": "فولاد مباركه اصفهان",
+    "symbol": "رانيز",
+    "name": "كارخانجات رينگ اسپرت نورني ريز",
     "timeframe": "15m",
-    "updated": "2026-09-02 08:25:04",
+    "updated": "2026-09-02 09:24:26",
     "RF": 0,
     "ST": 0,
     "K288": 0,
-    "last": 2689.0,
-    "close": 2751.0,
-    "yesterday": 2751.0,
-    "dailyChangePercent": -2.2537,
-    "volume": 0
+    "last": 18060.0,
+    "close": 18050.0,
+    "yesterday": 18590.0,
+    "dailyChangePercent": -2.851,
+    "volume": 7135382
   },
   "symbol2": {
     "symbol": "عيار",
     "name": "صندوق طلاي عيار مفيد",
     "timeframe": "15m",
-    "updated": "2026-09-02 08:25:06",
+    "updated": "2026-09-02 09:24:28",
     "RF": 0,
     "ST": 0,
     "K288": 0,
