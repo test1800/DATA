@@ -1,31 +1,27 @@
 {
-  "totalSymbols": 2,
+  "totalSymbols": 1,
   "symbol1": {
     "symbol": "فولاد",
     "name": "فولاد مباركه اصفهان",
     "timeframe": "15m",
-    "updated": "2026-09-02 11:20:52",
-    "RF": 1,
+    "updated": "2026-09-02 11:21:00",
+    "RF": -1,
     "ST": 1,
     "K288": -1,
+    "RF_Filter": 1941.6178025481968,
+    "RF_Upper": 2013.7929134010633,
+    "RF_Lower": 1869.4426916953303,
+    "ST_Line": 1800.5420079554758,
+    "ST_Upper": 2030.3308543759558,
+    "ST_Lower": 1800.5420079554758,
+    "K288_Value": 3599.5,
+    "K288_Highest": 6249.0,
+    "K288_Lowest": 950.0,
+    "indicatorCandles": 4182,
     "last": 2669.0,
     "close": 2669.0,
     "yesterday": 2751.0,
     "dailyChangePercent": -2.98,
-    "volume": 1425802061
-  },
-  "symbol2": {
-    "symbol": "عیار",
-    "name": "صندوق طلاي عيار مفيد",
-    "timeframe": "15m",
-    "updated": "2026-09-02 11:20:54",
-    "RF": -1,
-    "ST": -1,
-    "K288": -1,
-    "last": 623512.0,
-    "close": 625921.0,
-    "yesterday": 625921.0,
-    "dailyChangePercent": -0.38,
-    "volume": 0
+    "volume": 1426102061
   }
 }
