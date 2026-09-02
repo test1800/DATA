@@ -1,15 +1,10 @@
 {
-  "totalSymbols": 3,
+  "totalSymbols": 2,
   "symbol1": {
-    "RF": 1,
-    "ST": -1,
-    "K288": -1
-  },
-  "symbol2": {
     "symbol": "فولاد",
     "name": "فولاد مباركه اصفهان",
     "timeframe": "15m",
-    "updated": "2026-09-02 08:21:56",
+    "updated": "2026-09-02 08:25:04",
     "RF": 0,
     "ST": 0,
     "K288": 0,
@@ -19,11 +14,11 @@
     "dailyChangePercent": -2.2537,
     "volume": 0
   },
-  "symbol3": {
+  "symbol2": {
     "symbol": "عيار",
     "name": "صندوق طلاي عيار مفيد",
     "timeframe": "15m",
-    "updated": "2026-09-02 08:21:58",
+    "updated": "2026-09-02 08:25:06",
     "RF": 0,
     "ST": 0,
     "K288": 0,
