@@ -4,28 +4,28 @@
     "symbol": "رانیز",
     "name": "كارخانجات رينگ اسپرت نورني ريز",
     "timeframe": "30m",
-    "updated": "2026-09-02 14:32:13",
+    "updated": "2026-09-05 13:04:29",
     "RF": -1,
     "ST": -1,
     "K288": -1,
-    "last": 18220.0,
-    "close": 18140.0,
-    "yesterday": 18590.0,
-    "dailyChangePercent": -1.99,
-    "volume": 15441139
+    "last": 18630.0,
+    "close": 18520.0,
+    "yesterday": 18140.0,
+    "dailyChangePercent": 2.7,
+    "volume": 14380953
   },
   "symbol2": {
     "symbol": "عیار",
     "name": "صندوق طلاي عيار مفيد",
     "timeframe": "30m",
-    "updated": "2026-09-02 14:32:15",
+    "updated": "2026-09-05 13:04:31",
     "RF": -1,
     "ST": -1,
     "K288": -1,
-    "last": 632771.0,
-    "close": 636354.0,
-    "yesterday": 625921.0,
-    "dailyChangePercent": 1.09,
-    "volume": 109930072
+    "last": 652010.0,
+    "close": 653414.0,
+    "yesterday": 636380.0,
+    "dailyChangePercent": 2.46,
+    "volume": 70111616
   }
 }
